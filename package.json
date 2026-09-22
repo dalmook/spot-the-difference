@@ -1,0 +1,6 @@
+{
+  "name": "little-detective", "version": "1.0.0", "private": true, "type": "module",
+  "description": "작은 탐정단 — 108개의 그림 속으로 떠나는 틀린그림 찾기 여행",
+  "scripts": {"dev": "node scripts/serve.mjs", "test": "node --test tests/*.test.mjs", "check": "node scripts/validate.mjs", "build": "node scripts/build.mjs"},
+  "engines": {"node": ">=20"}
+}
